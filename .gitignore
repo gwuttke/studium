@@ -1,1 +1,18 @@
 *.exe
+**/.vs/**/*
+!.cs
+**/obj/**/*
+**/Properties/**/*
+#Visuel Studio Project Datein
+*.sln
+*.csproj
+*.vbproj
+*.vcxproj
+*.vcproj
+*.dbproj
+*.fsproj
+*.lsproj
+*.wixproj
+*.modelproj
+*.sqlproj
+*.wwaproj
